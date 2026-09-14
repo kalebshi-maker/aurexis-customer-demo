@@ -1,7 +1,7 @@
 # Aurexis Systems — Customer V3
 
 A customer-facing Streamlit MVP for **AI Governance Evidence Intelligence**.
-
+https://aurexis-customer-demo-mciyeb7fc6upjop8ca8ufq.streamlit.app/
 ## V3 flow
 
 1. **System** — capture AI system context.
