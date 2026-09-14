@@ -1,4 +1,7 @@
-streamlit>=1.37,<2
-pandas>=2.0,<3
-reportlab>=4.0,<5
+streamlit==1.50.0
+
+pandas>=2.2,<3
+
 pypdf>=5,<7
+
+reportlab>=4,<5
